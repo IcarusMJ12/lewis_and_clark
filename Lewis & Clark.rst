@@ -4,6 +4,8 @@ Lewis" & "Clark"
 A "Cooperative" Game of "Peaceful" "Exploration"
 ------------------------------------------------
 
+.. contents::
+
 Abstract
 ~~~~~~~~
 
