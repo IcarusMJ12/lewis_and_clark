@@ -67,13 +67,13 @@ putting the top two cards from **stellae incognitae** into **long-range
 scanners** as a replacement.  Alternatively, they may play a card from either
 their **database** or from **published findings** into their **hold**.
 
-e.g.
-  On his first turn *Lewis* has no cards in his hand so he takes the only
-  option available to him, which is to **survey**. Of the five cards presently
-  in **long-range scanners** two are **functions**.  Deciding that getting some
-  prototype hardware will be of greatest benefit in the long run *Lewis*
-  decides to snag both **functions** and replaces them with with a **remnant**
-  and a **barren** world from the top of **stellae incognitae**.
+:e.g.: On his first turn *Lewis* has no cards in his hand so he takes the only
+       option available to him, which is to **survey**. Of the five cards
+       presently in **long-range scanners** two are **functions**.  Deciding
+       that getting some prototype hardware will be of greatest benefit in the
+       long run *Lewis* decides to snag both **functions** and replaces them
+       with with a **remnant** and a **barren** world from the top of **stellae
+       incognitae**.
 
 Cards played face-down are counted as **resources** and are free:
 
@@ -87,27 +87,27 @@ Cards played face-up provide benefits as indicated on the card and
 usually cost **resources** or require the player to **publish findings**
 by discarding appropriate cards.
 
-e.g.
-  On his second turn *Lewis* decides to use one of the **functions** to
-  **schmooze** for a **favor**, so that on his third turn he can discard it to
-  play his remaining card -- *Turbot-class* [#]_ *Vanguard Ship* -- that
-  provides an additional card draw during **survey** actions. At some point
-  later during the game, *Lewis* decides to play the *Wildcard Male*.  This is
-  a great **breeding pair** combo with several *Noble Savage, Female* cards
-  that *Lewis* already has in play, and well worth the cost of one **gaea**
-  world which *Lewis* discards into **published findings**.
+:e.g.: On his second turn *Lewis* decides to use one of the **functions** to
+       **schmooze** for a **favor**, so that on his third turn he can discard
+       it to play his remaining card -- *Turbot-class* [#]_ *Vanguard Ship* --
+       that provides an additional card draw during **survey** actions. At some
+       point later during the game, *Lewis* decides to play the *Wildcard
+       Male*.  This is a great **breeding pair** combo with several *Noble
+       Savage, Female* cards that *Lewis* already has in play, and well worth
+       the cost of one **gaea** world which *Lewis* discards into **published
+       findings**.
 
 While some face-up cards directly provide the player with **prestige**
 required to win the game, others provide the player with additional
 actions they can take during their turn. All actions resolve in the
 order of the player's choosing.
 
-e.g.
-  *Clark* finally managed to get a hold of and play a couple of **functions**.
-  After performing a **survey** he decides that he wants to play one of them
-  immediately. He uses a *Biomass Processor* to treat one **biomass**
-  **resource** as a **hydrogen** this turn, and then spends this **resource**
-  via a *Fusion Overdrive* to immediately take another action of his choice.
+:e.g.: *Clark* finally managed to get a hold of and play a couple of
+       **functions**.  After performing a **survey** he decides that he wants
+       to play one of them immediately. He uses a *Biomass Processor* to treat
+       one **biomass** **resource** as a **hydrogen** this turn, and then
+       spends this **resource** via a *Fusion Overdrive* to immediately take
+       another action of his choice.
 
 .. [#] Tinbria is *totally* not an anagram of Britain.
 .. [#] The statement is not intended to disparage these games. They have great
