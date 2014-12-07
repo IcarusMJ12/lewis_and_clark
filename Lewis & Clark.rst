@@ -72,7 +72,7 @@ their **database** or from **published findings** into their **hold**.
        presently in **long-range scanners** two are **functions**.  Deciding
        that getting some prototype hardware will be of greatest benefit in the
        long run *Lewis* decides to snag both **functions** and replaces them
-       with with a **remnant** and a **barren** world from the top of **stellae
+       with a **remnant** and a **barren** world from the top of **stellae
        incognitae**.
 
 Cards played face-down are counted as **resources** and are free:
