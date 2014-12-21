@@ -1,4 +1,4 @@
-Lewis" & "Clark"
+"Lewis" & "Clark"
 =================
 
 A "Cooperative" Game of "Peaceful" "Exploration"
