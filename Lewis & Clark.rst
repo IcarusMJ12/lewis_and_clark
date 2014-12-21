@@ -33,13 +33,13 @@ The game is played solely with a deck of cards. There are four different
 card types, identified by the image on the back as well as a matching
 border on the front:
 
--  **gaea** -- a solar system containing at least one planet populated
+-  **Gaea** -- a solar system containing at least one planet populated
    by a pseudosapient biological species
--  **remnant** -- a solar system containing at least one planet housing
+-  **Remnant** -- a solar system containing at least one planet housing
    the ruins of a more advanced species
--  **barren** -- a relatively uninhabited system that may, however,
+-  **Barren** -- a relatively uninhabited system that may, however,
    contain alien artifacts or valuable minerals
--  **function** -- a social function at the Royal Xenoresearch
+-  **XenU** -- a social function at the Royal Xenoresearch
    University of the Far Colonies provides opportunities to schmooze for
    future favors or apply for grants for specialized equipment
 
@@ -55,7 +55,7 @@ the side of the face-down cards is a face-up discard area representing
 **published findings**.  Even further is a face-down discard area for consumed
 resources. In front of each player is their **hold** -- the tableau to which
 they deploy played cards. A player's hand is their **database** of surveyed
-worlds and academic functions.
+worlds and **XenU** grants.
 
 Gameplay
 ~~~~~~~~
@@ -69,25 +69,24 @@ their **database** or from **published findings** into their **hold**.
 
 :e.g.: On his first turn *Lewis* has no cards in his hand so he takes the only
        option available to him, which is to **survey**. Of the five cards
-       presently in **long-range scanners** two are **functions**.  Deciding
-       that getting some prototype hardware will be of greatest benefit in the
-       long run *Lewis* decides to snag both **functions** and replaces them
-       with a **remnant** and a **barren** world from the top of **stellae
+       presently in **long-range scanners** two are **XenU**.  Deciding that
+       getting some prototype hardware will be of greatest benefit in the long
+       run *Lewis* decides to snag both **XenU** cards and replaces them with
+       a **remnant** and a **barren** world from the top of **stellae
        incognitae**.
 
 Cards played face-down are counted as **resources** and are free:
 
--  **gaea** worlds can be **harvested** for **biomass**
--  **remnant** worlds can be **looted** for **weapons**
--  **barren** systems' stars can be **mined** for **hydrogen**
--  University **functions** can be **schmoozed** at for future
-   **favors**
+-  **Gaea** worlds can be **harvested** for **biomass**
+-  **Remnant** worlds can be **looted** for **weapons**
+-  **Barren** systems' stars can be **mined** for **hydrogen**
+-  **XenU** social functions can be **schmoozed** at for future **favors**
 
 Cards played face-up provide benefits as indicated on the card and
 usually cost **resources** or require the player to **publish findings**
 by discarding appropriate cards.
 
-:e.g.: On his second turn *Lewis* decides to use one of the **functions** to
+:e.g.: On his second turn *Lewis* decides to use one of the **XenU** to
        **schmooze** for a **favor**, so that on his third turn he can discard
        it to play his remaining card -- *Turbot-class* [#]_ *Vanguard Ship* --
        that provides an additional card draw during **survey** actions. At some
@@ -103,7 +102,7 @@ actions they can take during their turn. All actions resolve in the
 order of the player's choosing.
 
 :e.g.: *Clark* finally managed to get a hold of and play a couple of
-       **functions**.  After performing a **survey** he decides that he wants
+       **XenU** cards.  After performing a **survey** he decides that he wants
        to play one of them immediately. He uses a *Biomass Processor* to treat
        one **biomass** **resource** as a **hydrogen** this turn, and then
        spends this **resource** via a *Fusion Overdrive* to immediately take
